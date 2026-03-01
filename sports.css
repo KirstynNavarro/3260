@@ -11,12 +11,13 @@ body{
     color: rgb(126, 126, 225);
     font-weight: bold;
     font-size: large;
+    font-family: monospace;
 }
 .players{
     color: green;
     font-style: italic;
-    font-size: large; 
-    font-family: fantasy;  
+    font-family: fantasy;
+    font-size: x-small;
 }
 .table{
     border: 2px solid blue;
