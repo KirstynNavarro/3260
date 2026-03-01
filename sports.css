@@ -12,3 +12,22 @@ body{
     font-weight: bold;
     font-size: large;
 }
+.players{
+    color: green;
+    font-style: italic;
+    font-size: large; 
+    font-family: fantasy;  
+}
+.table{
+    border: 2px solid blue;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: khaki;
+    color:cornflowerblue;
+    align-items: center;
+}
+.table th, .table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
