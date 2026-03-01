@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+    color:rgb(126, 126, 225);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    font-size: medium;
+    text-align: center;
+}
+.list{
+    list-style-type: square;
+    color: rgb(126, 126, 225);
+    font-weight: bold;
+    font-size: large;
+}
