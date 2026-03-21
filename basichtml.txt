@@ -1,0 +1,75 @@
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Basic layout</title>
+
+<link href="../css/basic.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<header>
+		<div id="logo">
+			<img src="../images/me.jpg" />
+			Web Dev I CSS Layout</div>
+		
+		<nav>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/">Project</a></li>
+					<li><a href="/">HTML5</a></li>
+					<li><a href="/">Scripts</a></li>
+				</ul>
+		</nav>
+		
+</header>
+
+<section>
+	<strong>This is HTML5 responsive basic page using article aside footer nav header main address</strong>
+</section>
+
+<section id="pageContent">
+ <main role="main">
+ 	<article>
+ 		<h2>Maintaining Styles</h2>
+ 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam iaculis ex quis commodo. Morbi fermentum, diam sit amet fringilla accumsan, enim sem efficitur turpis, ut lobortis leo ex et lectus. Aliquam at mauris fermentum, ornare purus ac, elementum nulla. Sed maximus leo est, in tempor neque pharetra pharetra.</p>
+
+ 	</article>
+ 	<article>
+ 		<h2>How to make this page display on anything</h2>
+ 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam iaculis ex quis commodo. Morbi fermentum, diam sit amet fringilla accumsan, enim sem efficitur turpis, ut lobortis leo ex et lectus. Aliquam at mauris fermentum, ornare purus ac, elementum nulla. Sed maximus leo est, in tempor neque pharetra pharetra.</p>
+
+ 	</article>
+ 	<article>
+ 		<h2>Making CSS Layouts</h2>
+ 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam iaculis ex quis commodo. Morbi fermentum, diam sit amet fringilla accumsan, enim sem efficitur turpis, ut lobortis leo ex et lectus. Aliquam at mauris fermentum, ornare purus ac, elementum nulla. Sed maximus leo est, in tempor neque pharetra pharetra.</p>
+
+ 	</article>
+ 	<article>
+ 		<h2>Add some Pizzazz</h2>
+ 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam iaculis ex quis commodo. Morbi fermentum, diam sit amet fringilla accumsan, enim sem efficitur turpis, ut lobortis leo ex et lectus. Aliquam at mauris fermentum, ornare purus ac, elementum nulla. Sed maximus leo est, in tempor neque pharetra pharetra.</p>
+ 	</article>
+	</main>
+		<aside>
+			
+			<div>Maps</div>
+			<div>Backgounds</div>
+			<div>Slideshows</div>
+			<div>Analytics</div>
+			<div>More info</div>
+		</aside>
+	</section>
+	<footer>
+		<p>&copy;2022  You can do it. HTML5 Layouts</p>
+		
+		<address>
+			Contact us: <a href="mailto:sshade@kennesaw.edu">Send me a message</a>
+		</address>
+	</footer>
+ 
+</body>
+
+</html>
